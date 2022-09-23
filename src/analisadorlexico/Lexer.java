@@ -40,6 +40,7 @@ public class Lexer {
         afds.add(new RCHAVEToken());
         afds.add(new FLUTUANTEToken());
         afds.add(new NUMEROToken());
+        afds.add(new EQUALSToken());
         
         
     }
